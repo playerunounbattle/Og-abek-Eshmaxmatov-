@@ -1,0 +1,149 @@
+@media (max-width:765px) {
+    .nav-list{
+        display: none;
+    }
+    .menu{
+        display: block;
+    }
+}
+@media (max-width:760px) {
+    .burger__title{
+        font-size: 60px;
+        text-align: center;
+    }
+}
+@media (max-width:690px){
+    .burger__title{
+        font-size: 55px;
+    }
+}
+@media (max-width:588px){
+    .burger__title{
+        font-size: 45px;
+    }
+}
+@media (max-width:550px){
+    .summa{
+        padding: 18px 50px;
+    }
+    .burger__btn{
+        padding: 15px 55px;
+    }
+}
+@media (max-width:500px){
+    .burger__btn{
+        padding: 15px 40px;
+    }
+    .summa{
+        padding: 18px 40px;
+    }
+    .burger__title{
+        font-size: 40px;
+    }
+}
+@media (max-width:450px){
+    .summa{
+        padding: 13px 30px;
+    }
+    .burger__title{
+        font-size: 35px;
+    }
+    .burger__title-2{
+        font-size: 25px;
+    }
+    .top__item{
+        margin-left: 10px;
+    }
+    .top__link{
+        font-size: 13px;
+    }
+}
+
+@media(max-width:410px){
+    .summa{
+        padding: 7px 20px;
+    }
+    .burger__btn{
+        padding: 13px 30px;
+    }
+}
+@media(max-width:376px){
+    .burger__title{
+        font-size: 30px;
+    }
+    .summa{
+        font-size: 40px;
+    }
+    .burger__btn{
+        font-size: 15px;
+    }
+    .top__item{
+        margin-left: 5px;
+    }
+    .header__icon i{
+        font-size: 20px;
+    }
+    .header__icon span{
+        font-size: 15px;
+    }
+}
+@media(max-width:321px){
+    .top__list{
+        display: none;
+    }
+    .header__icon{
+        margin: auto;
+    }
+    .street{
+        font-size: 25px;
+    }
+    .menu{
+        font-size: 35px;
+    }
+    .burger__title{
+        font-size: 27px;
+    }
+    .summa{
+        font-size: 35px;
+    }
+    .burger__btn{
+        font-size: 11px;
+    }
+}
+@media(max-width:1440px){
+    .cards__box{
+        width: 310px;
+    }
+}
+@media(max-width:1024px){
+    .cards__box{
+        margin-left: 20px;
+        margin-top: 10px;
+    }
+}
+@media(max-width:768px){
+    .cards__box{
+        margin-left: 0;
+        margin-top: 0;
+    }
+}
+@media(max-width:500px){
+    .cards__link{
+        font-size: 14px;
+    }
+    .street{
+        font-size: 25px;
+    }
+}
+@media(max-width:376px){
+    .cards__link{
+        font-size: 11px;
+    }
+}@media(max-width:321px){
+    .cards__box{
+        width: 100%;
+    }
+    #tel{
+        font-size: 13px;
+    }
+}
